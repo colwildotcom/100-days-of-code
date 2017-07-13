@@ -19,7 +19,6 @@
 **Link to work:** [freecodecamp.org](https://www.freecodecamp.org/map)
 
 
-https://www.freecodecamp.org/map
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
