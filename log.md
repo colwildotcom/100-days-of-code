@@ -9,7 +9,17 @@
 
 **Link to work:** [Lets get ready to rumble](https://twitter.com/Colwildotcom/status/885224469052129280)
 
+### Day 1: 13th July 2017
+##### (delete me or comment me out)
 
+**Today's Progress**: Completed HTML5 and CSS training in Front End Development Certification on freecodecamp.org.
+
+**Thoughts:** and learned a couple of things too!.
+
+**Link to work:** [freecodecamp.org](https://www.freecodecamp.org/map)
+
+
+https://www.freecodecamp.org/map
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
