@@ -22,9 +22,9 @@
 ### Day 2: Sunday 23rd July 2017
 
 **Progress Up To This Point**: 
-Responsive Design With BootStrap on FreeCodeCamp
-jQuery on FreeCodeCamp
-Tribute page on Basic Front End Development on FreeCodeCamp
+1. Responsive Design With BootStrap on FreeCodeCamp
+2. jQuery on FreeCodeCamp
+3. Tribute page on Basic Front End Development on FreeCodeCamp
 
 **Today's Progress**: Finish Portfolio page which completes Basic Front End Development on FreeCodeCamp
 
