@@ -19,12 +19,17 @@
 **Link to work:** [freecodecamp.org](https://www.freecodecamp.org/map)
 
 
-### Day 1: June 27, Monday
+### Day 2: Sunday 23rd July 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+** Progress Up To This Point **: 
+Responsive Design With BootStrap on FreeCodeCamp
+jQuery on FreeCodeCamp
+Tribute page on Basic Front End Development on FreeCodeCamp
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Finish Portfolio page which completes Basic Front End Development on FreeCodeCamp
+
+**Thoughts** Moving on to Javascript! Here we go.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [FCC Tribute Page](https://codepen.io/colwildotcom/pen/mwoNPg)
+2. [Portfolio Page](https://codepen.io/colwildotcom/pen/NgQMEV)
