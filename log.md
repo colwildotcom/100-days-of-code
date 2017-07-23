@@ -21,7 +21,7 @@
 
 ### Day 2: Sunday 23rd July 2017
 
-** Progress Up To This Point **: 
+**Progress Up To This Point**: 
 Responsive Design With BootStrap on FreeCodeCamp
 jQuery on FreeCodeCamp
 Tribute page on Basic Front End Development on FreeCodeCamp
