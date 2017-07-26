@@ -33,3 +33,10 @@
 **Link(s) to work**
 1. [FCC Tribute Page](https://codepen.io/colwildotcom/pen/mwoNPg)
 2. [Portfolio Page](https://codepen.io/colwildotcom/pen/NgQMEV)
+
+
+### Day 3: Wednesday 26rd July 2017
+
+**Today's Progress**: Finished Basic Javascript on FreeCodeCamp
+
+**Thoughts** Object Oriented and Functional Programming next.
