@@ -40,3 +40,8 @@
 **Today's Progress**: Finished Basic Javascript on FreeCodeCamp
 
 **Thoughts** Object Oriented and Functional Programming next.
+
+
+### Day 4: Friday 28rd July 2017
+
+**Today's Progress**: Object Oriented and Functional Programming done! :-)
