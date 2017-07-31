@@ -1,0 +1,15 @@
+
+function destroyer(arr) {
+  // Remove all the values
+  list = arguments[0];
+
+  for(var i=1;i<arguments.length;i=i+1) {
+  	var arg = arguments[i];
+     list = list.filter(function(element){
+    return element != arg;
+  });
+  }
+  return list;
+}
+
+results = destroyer([1, 2, 3, 1, 2, 3], 2, 3);
