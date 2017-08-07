@@ -45,3 +45,15 @@
 ### Day 4: Friday 28rd July 2017
 
 **Today's Progress**: Object Oriented and Functional Programming done! :-)
+
+
+### Day 5: Monday 7th August 2017
+
+**Today's Progress**: 
+Basic Algorithm Scripting done
+JSON APIs and AJAX done
+Intermediate Front End Development Projects - Build A Random Quote Machine Done
+(might need a bit more work due to http/https issues)
+https://codepen.io/colwildotcom/pen/WEobMm
+
+
