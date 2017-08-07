@@ -50,9 +50,9 @@
 ### Day 5: Monday 7th August 2017
 
 **Today's Progress**: 
-Basic Algorithm Scripting done
-JSON APIs and AJAX done
-Intermediate Front End Development Projects - Build A Random Quote Machine Done
+1. Basic Algorithm Scripting done
+2. JSON APIs and AJAX done
+3. Intermediate Front End Development Projects - Build A Random Quote Machine Done
 (might need a bit more work due to http/https issues)
 https://codepen.io/colwildotcom/pen/WEobMm
 
