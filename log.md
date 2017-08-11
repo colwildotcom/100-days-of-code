@@ -62,3 +62,9 @@ https://codepen.io/colwildotcom/pen/WEobMm
 1. Intermediate Front End Development Projects - Build A Random Quote Machine Done - Did this again with local json object due to http/https issues
 https://codepen.io/colwildotcom/full/rzyXqR/
 
+### Day 7: Friday 11th August 2017
+
+**Today's Progress**: 
+1. Intermediate Front End Development Projects - Show The Local Weather Map 
+https://codepen.io/colwildotcom/full/gxRXLB/
+
