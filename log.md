@@ -68,3 +68,10 @@ https://codepen.io/colwildotcom/full/rzyXqR/
 1. Intermediate Front End Development Projects - Show The Local Weather Map 
 https://codepen.io/colwildotcom/full/gxRXLB/
 
+
+### Day 8: Saturday 18th August 2017
+
+**Today's Progress**: 
+1. Intermediate Front End Development Projects - Wikipedia Viewer 
+https://codepen.io/colwildotcom/full/PKQbbg/
+
